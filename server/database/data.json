@@ -1,0 +1,166 @@
+{
+    "products": [
+        {
+            "id":"1",
+            "title": "iPhone 9",
+            "description": "An apple mobile which is nothig like apple",
+            "price": 549,
+            "rating": 4.69,
+            "thumbnail":"https://images.pexels.com/photos/1486861/pexels-photo-1486861.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+        },
+        {
+            "id": "2",
+            "title": "Samsung Galaxy S20",
+            "description": "Flagship smartphone with top-tier features",
+            "price": 799,
+            "rating": 4.85,
+            "thumbnail": "https://images.pexels.com/photos/13024626/pexels-photo-13024626.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+          },
+          {
+            "id": "3",
+            "title": "Google Pixel 5",
+            "description": "Google's latest flagship with amazing camera capabilities",
+            "price": 699,
+            "rating": 4.75,
+            "thumbnail": "https://images.pexels.com/photos/19288164/pexels-photo-19288164/free-photo-of-direction.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+          },
+          {
+            "id": "4",
+            "title": "OnePlus 8T",
+            "description": "High-performance smartphone at an affordable price",
+            "price": 599,
+            "rating": 4.68,
+            "thumbnail": "https://images.pexels.com/photos/1192671/pexels-photo-1192671.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          },
+          {
+            "id": "5",
+            "title": "Xiaomi Mi 10",
+            "description": "Feature-packed smartphone with a sleek design",
+            "price": 499,
+            "rating": 4.7,
+            "thumbnail": "https://images.pexels.com/photos/1366909/pexels-photo-1366909.jpeg?auto=compress&cs=tinysrgb&w=600"
+          },
+          {
+            "id": "6",
+            "title": "Huawei P40 Pro",
+            "description": "Premium smartphone with cutting-edge technology",
+            "price": 899,
+            "rating": 4.6,
+            "thumbnail": "https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          },
+          {
+            "id": "7",
+            "title": "Sony Xperia 5 II",
+            "description": "Compact smartphone with powerful performance",
+            "price": 749,
+            "rating": 4.8,
+            "thumbnail": "https://images.pexels.com/photos/234272/pexels-photo-234272.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          },
+          {
+            "id": "8",
+            "title": "LG Velvet",
+            "description": "Stylish smartphone with a unique design",
+            "price": 599,
+            "rating": 4.65,
+            "thumbnail": "https://images.pexels.com/photos/1276518/pexels-photo-1276518.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          },
+          {
+            "id": "9",
+            "title": "Motorola Edge+",
+            "description": "Flagship smartphone with long-lasting battery life",
+            "price": 799,
+            "rating": 4.7,
+            "thumbnail": "https://images.pexels.com/photos/446462/pexels-photo-446462.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          },
+          {
+            "id": "10",
+            "title": "Nokia 9 PureView",
+            "description": "Innovative smartphone with a powerful camera system",
+            "price": 699,
+            "rating": 4.6,
+            "thumbnail": "https://images.pexels.com/photos/534164/pexels-photo-534164.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          },
+          {
+            "id": "11",
+            "title": "Asus ROG Phone 3",
+            "description": "Gaming smartphone designed for high-performance gaming",
+            "price": 999,
+            "rating": 4.9,
+            "thumbnail": "https://images.pexels.com/photos/1624504/pexels-photo-1624504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          },
+          {
+            "id": "12",
+            "title": "BlackBerry Key2",
+            "description": "Iconic smartphone with a physical keyboard",
+            "price": 499,
+            "rating": 4.5,
+            "thumbnail": "https://images.pexels.com/photos/1234035/pexels-photo-1234035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          },
+          {
+            "id": "13",
+            "title": "Oppo Find X2 Pro",
+            "description": "Premium smartphone with a stunning display",
+            "price": 899,
+            "rating": 4.7,
+            "thumbnail": "https://images.pexels.com/photos/612891/pexels-photo-612891.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          },
+          {
+            "id": "14",
+            "title": "Vivo X50 Pro+",
+            "description": "Photography-focused smartphone with advanced camera features",
+            "price": 799,
+            "rating": 4.8,
+            "thumbnail": "https://images.pexels.com/photos/2104152/pexels-photo-2104152.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          },
+          {
+            "id": "15",
+            "title": "Realme X3 SuperZoom",
+            "description": "Budget-friendly smartphone with impressive zoom capabilities",
+            "price": 399,
+            "rating": 4.6,
+            "thumbnail": "https://images.pexels.com/photos/2887497/pexels-photo-2887497.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          },
+          {
+            "id": "16",
+            "title": "Lenovo Legion Phone Duel",
+            "description": "Gaming smartphone with innovative features",
+            "price": 899,
+            "rating": 4.85,
+            "thumbnail": "https://images.pexels.com/photos/165537/pexels-photo-165537.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          },
+          {
+            "id": "17",
+            "title": "ZTE Axon 20 5G",
+            "description": "Smartphone with an under-display camera",
+            "price": 499,
+            "rating": 4.55,
+            "thumbnail": "https://images.pexels.com/photos/592284/pexels-photo-592284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          },
+          {
+            "id": "18",
+            "title": "Meizu 17 Pro",
+            "description": "Feature-packed smartphone with a sleek design",
+            "price": 699,
+            "rating": 4.7,
+            "thumbnail": "https://images.pexels.com/photos/1424239/pexels-photo-1424239.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          },
+          {
+            "id": "19",
+            "title": "Poco X3 NFC",
+            "description": "Budget-friendly smartphone with impressive performance",
+            "price": 299,
+            "rating": 4.8,
+            "thumbnail": "https://images.pexels.com/photos/54332/currant-immature-bush-berry-54332.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          },
+          {
+            "id": "20",
+            "title": "Redmi Note 9 Pro",
+            "description": "Affordable smartphone with a large display",
+            "price": 249,
+            "rating": 4.5,
+            "thumbnail": "https://images.pexels.com/photos/614484/pexels-photo-614484.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          }
+         
+    ]
+}

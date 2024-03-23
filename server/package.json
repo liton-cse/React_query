@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "description": "This is a mock API of jonserver",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "json-server --watch ./database/data.json"
+  },
+  "author": "",
+  "license": "MIT"
+}
